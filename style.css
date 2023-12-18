@@ -217,18 +217,7 @@ nav .nav-menu li a:hover{
   position: relative;
 
 }
-.services-babosa{
-  width: 52rem;
-  height: 100%;
-  position: absolute;
-  right: -40rem;
- 
-}
-.services-babosa img{
-  width: 100%;
-  height: 80%;
-  object-fit: contain;
-}
+
 .services-text{
   display: flex;
   align-items: center;
@@ -273,20 +262,7 @@ nav .nav-menu li a:hover{
   font-size: 1.2rem;
   line-height: 1.5rem;
 }
-.services-plant{
-  width: 520px;
-  height: 80%;
-  position: absolute;
-  bottom: 10%;
-  left: -10%;
- 
-}
-.services-plant img{
-  width: 100%;
-  height: 80%;
-  object-fit: contain;
- 
-}
+
 /*---About---*/
 .about-container{
   margin: 3rem;
