@@ -6,7 +6,8 @@
   **Foi usado :**  `HTML` , `CSS  `, `JAVASCRIPT`
 
  ## Layout 
-   ![salon](https://github.com/AmandaLuizaFreitas/Beauty-salon/assets/110351770/99ffec69-2894-4d14-b9eb-e48625ec1c78)
+   ![layout ](https://github.com/AmandaLuizaFreitas/brilho-bella/assets/110351770/085a00ad-7508-403c-8302-81ea1a444ad8)
   
 ## 🔗 Link
 [cliquei aqui ](https://beauty-salon-nine.vercel.app/)
+
